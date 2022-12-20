@@ -1,5 +1,5 @@
 # FreeCad
-Biblioteca de peças feitas para o laboratório.
+Biblioteca de peças feitas para os laboratórios de Automação e de Instrumentaç.
 
 Manual e Exemplos de FreeCad
 http://www.iearobotics.com/wiki/index.php?title=Dise%C3%B1o_de_piezas_con_Freecad
